@@ -93,8 +93,8 @@ export default {
     msg: String,
   },
   setup() {
-    const b = "test";
-    console.log(b);
+    const a = "test";
+    console.log(a);
   },
 };
 </script>
